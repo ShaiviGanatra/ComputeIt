@@ -22,4 +22,4 @@ Requirements :
   
   -TornadoFx plugin for IntelliJ IDEA
 
-<img src="UI.png">
+<img src="UI.PNG">
